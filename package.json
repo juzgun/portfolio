@@ -1,7 +1,7 @@
 {
-  "name": "puls_site",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "test site ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/juzgun/puls_site.git"
   },
-  "author": "",
+  "author": "juzgun",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/juzgun/puls_site/issues"
@@ -25,10 +25,11 @@
     "gulp-htmlmin": "^5.0.1",
     "gulp-imagemin": "^7.1.0",
     "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.1.0"
-  },
-  "dependencies": {
+    "gulp-sass": "^4.1.0",
     "animate.css": "^4.1.1",
     "wow.js": "^1.2.2"
-  }
+  },
+  "keywords": [
+    "portfolio"
+  ]
 }
